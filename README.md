@@ -57,6 +57,7 @@ Siga estos pasos para configurar el entorno de desarrollo local:
 │   └── api/            # Servidor FastAPI y gestión de WebSockets
 ├── scripts/            # Utilidades de simulación y mantenimiento
 └── README.md           # Documentación del proyecto
+```
 
 ## 📂 Documentación
 El diseño técnico detallado de este proyecto se encuentra disponible en formato PDF:
